@@ -119,7 +119,7 @@ agora     agentes de IA · observabilidade · avaliação de LLMs
     <td colspan="2" valign="top">
       <img src="https://img.shields.io/badge/interno-22396F?style=flat-square" alt="interno" />
       <h3>IRIS</h3>
-      <p>Plataforma de monitoramento e curadoria de notícias com IA, feita para apoiar o trabalho da redação. Atuo no backend, nos microsserviços e na infraestrutura.</p>
+      <p>Plataforma de monitoramento e curadoria de notícias com IA, feita para apoiar o trabalho da redação. Atuo no backend, frontend, nos microsserviços e na infraestrutura.</p>
       <p>Algumas frentes em que trabalhei:</p>
       <ul>
         <li>Agentes de IA com modelos rodando localmente</li>
