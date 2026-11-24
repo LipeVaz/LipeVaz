@@ -13,11 +13,12 @@
 
 ## Sobre mim
 
-Sou desenvolvedor full stack na **InterTV**, afiliada da Globo em Cabo Frio - Rio de Janeiro. Passo a maior parte do tempo no backend, com APIs em Django, microsserviços, banco de dados, filas e containers, e também desenvolvo apps mobile.
+Sou desenvolvedor full stack na **InterTV**, afiliada da Globo no interior do Rio. Passo a maior parte do tempo no backend, com APIs em Django, microsserviços, banco de dados, filas e containers, além de desenvolver apps mobile e frontend.
 
 Hoje meu foco é o **IRIS**, uma plataforma interna que usa IA para ajudar a redação a acompanhar o que acontece na região. É software que roda todo dia na mão de jornalistas, então estabilidade vem antes de qualquer firula.
 
 Nos últimos meses tenho trabalhado com observabilidade, testes de carga, avaliação de modelos de linguagem e agentes de IA. A regra é sempre a mesma: medir antes de mexer.
+
 
 ```text
 base      Região dos Lagos, RJ
@@ -32,14 +33,14 @@ agora     agentes de IA · observabilidade · avaliação de LLMs
 
 <table align="center">
   <tr>
-    <td align="right" width="120"><sub><b>BACKEND</b></sub></td>
-    <td align="center" width="84"><img src="https://skillicons.dev/icons?i=python" width="44" alt="Python" /><br><sub>Python</sub></td>
-    <td align="center" width="84"><img src="https://skillicons.dev/icons?i=django" width="44" alt="Django" /><br><sub>Django</sub></td>
-    <td align="center" width="84"><img src="https://skillicons.dev/icons?i=fastapi" width="44" alt="FastAPI" /><br><sub>FastAPI</sub></td>
-    <td colspan="4" valign="middle">
-      <img src="https://img.shields.io/badge/Celery-0D1C42?style=flat-square&logo=celery&logoColor=FCF1D0" />
-      <img src="https://img.shields.io/badge/Telegram_Bot_API-0D1C42?style=flat-square&logo=telegram&logoColor=FCF1D0" />
-    </td>
+    <td align="right" width="110"><sub><b>BACKEND</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=python" width="44" alt="Python" /><br><sub>Python</sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=django" width="44" alt="Django" /><br><sub>Django</sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=fastapi" width="44" alt="FastAPI" /><br><sub>FastAPI</sub></td>
+    <td align="center" width="88"><img src="./assets/icons/celery.svg" width="44" alt="Celery" /><br><sub>Celery</sub></td>
+    <td align="center" width="88"><img src="./assets/icons/telegram.svg" width="44" alt="Telegram Bot API" /><br><sub>Telegram Bot</sub></td>
+    <td width="88"></td>
+    <td width="88"></td>
   </tr>
   <tr>
     <td align="right"><sub><b>FRONTEND</b></sub></td>
@@ -54,33 +55,32 @@ agora     agentes de IA · observabilidade · avaliação de LLMs
   <tr>
     <td align="right"><sub><b>MOBILE</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="44" alt="React Native" /><br><sub>React Native</sub></td>
+    <td align="center"><img src="./assets/icons/expo.svg" width="44" alt="Expo e Expo Go" /><br><sub>Expo · Go</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="44" alt="Kotlin" /><br><sub>Kotlin</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="44" alt="Android Studio" /><br><sub>Android Studio</sub></td>
-    <td colspan="4" valign="middle">
-      <img src="https://img.shields.io/badge/Expo-0D1C42?style=flat-square&logo=expo&logoColor=FCF1D0" />
-      <img src="https://img.shields.io/badge/Expo_Go-0D1C42?style=flat-square&logo=expo&logoColor=FCF1D0" />
-    </td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td align="right"><sub><b>DADOS</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL" /><br><sub>PostgreSQL</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="44" alt="Redis" /><br><sub>Redis</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="44" alt="Supabase" /><br><sub>Supabase</sub></td>
-    <td colspan="4" valign="middle">
-      <img src="https://img.shields.io/badge/Qdrant-0D1C42?style=flat-square" />
-    </td>
+    <td align="center"><img src="./assets/icons/qdrant.svg" width="44" alt="Qdrant" /><br><sub>Qdrant</sub></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td align="right"><sub><b>IA</b></sub></td>
-    <td colspan="7" valign="middle">
-      <img src="https://img.shields.io/badge/Ollama-22396F?style=flat-square&logo=ollama&logoColor=FCF1D0" />
-      <img src="https://img.shields.io/badge/Gemini-22396F?style=flat-square&logo=googlegemini&logoColor=FCF1D0" />
-      <img src="https://img.shields.io/badge/LLMs_locais-22396F?style=flat-square" />
-      <img src="https://img.shields.io/badge/MCP-22396F?style=flat-square" />
-      <img src="https://img.shields.io/badge/SearXNG-22396F?style=flat-square" />
-      <img src="https://img.shields.io/badge/Avalia%C3%A7%C3%A3o_de_modelos-22396F?style=flat-square" />
-      <img src="https://img.shields.io/badge/Engenharia_de_prompt-22396F?style=flat-square" />
-    </td>
+    <td align="center"><img src="./assets/icons/ollama.svg" width="44" alt="Ollama" /><br><sub>Ollama</sub></td>
+    <td align="center"><img src="./assets/icons/googlegemini.svg" width="44" alt="Gemini" /><br><sub>Gemini</sub></td>
+    <td align="center"><img src="./assets/icons/modelcontextprotocol.svg" width="44" alt="MCP" /><br><sub>MCP</sub></td>
+    <td align="center"><img src="./assets/icons/searxng.svg" width="44" alt="SearXNG" /><br><sub>SearXNG</sub></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td align="right"><sub><b>INFRA</b></sub></td>
@@ -95,12 +95,18 @@ agora     agentes de IA · observabilidade · avaliação de LLMs
   <tr>
     <td align="right"><sub><b>GESTÃO</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git" /><br><sub>Git</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=jira" width="44" alt="Jira" /><br><sub>Jira</sub></td>
-    <td colspan="5" valign="middle">
-      <img src="https://img.shields.io/badge/Gitea-0D1C42?style=flat-square&logo=gitea&logoColor=FCF1D0" />
-    </td>
+    <td align="center"><img src="./assets/icons/gitea.svg" width="44" alt="Gitea" /><br><sub>Gitea</sub></td>
+    <td align="center"><img src="./assets/icons/jira.svg" width="44" alt="Jira" /><br><sub>Jira</sub></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
+
+<p align="center">
+  <sub>também no dia a dia: LLMs locais · avaliação de modelos · engenharia de prompt</sub>
+</p>
 
 <br>
 
